@@ -1,0 +1,68 @@
+
+input:enabled{
+    background: green;
+    color: white;
+}
+
+p:read-write{
+    background: hotpink;
+    color: #d8d7d7;
+}
+
+input:read-only{
+    background-color: orange;
+    color: blanchedalmond;
+}
+
+input:disabled{
+    background-color: red;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+/* input:checked + span{
+    color: green;
+} */
+
+
+
+
+
+/* input:focus{
+    border-color: red;
+    border-radius: 5px;
+    border-style: dotted;
+    color: orange;
+    background: orchid;
+    outline: none;
+    
+} */
+
+
+
+
+/* a{
+    text-decoration: none;
+}
+a:link{
+    font-family: Arial;
+    color: green;
+    font-weight: bold;
+}
+a:visited {
+    color: #560dcc;
+}
+a:hover{
+    cursor: wait;
+}
+a:active{
+    cursor: not-allowed;
+} */
